@@ -5,3 +5,4 @@ The data preprocessing technique we have used is Standardization. Standardizatio
 In order to prepare our data for modeling, we created a ‘date’ column of datatype ‘datetime’ from the month and year and merged all the features into one dataframe. We added several economic and climate factors to correlate them to the price. The features date, 3,6,9,12 month means of price, CO2 and consumer index are found to be highly correlated. Below is the heatmap representing the correlation among the features:
 
 
+![alt text](https://github.com/Roshni96/Rice_price_forecast/blob/master/correlation.png)
