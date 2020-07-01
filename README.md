@@ -6,3 +6,11 @@ In order to prepare our data for modeling, we created a ‘date’ column of dat
 
 
 ![alt text](https://github.com/Roshni96/Rice_price_forecast/blob/master/correlation.png)
+
+The Histogram plot of the training data:
+
+![alt text](https://github.com/Roshni96/Rice_price_forecast/blob/master/histogram.png)
+
+The time series plot of price of rice in India:
+![alt text](https://github.com/Roshni96/Rice_price_forecast/blob/master/time_series_plot.png)
+
