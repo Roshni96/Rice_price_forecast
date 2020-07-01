@@ -14,3 +14,8 @@ The Histogram plot of the training data:
 The time series plot of price of rice in India:
 ![alt text](https://github.com/Roshni96/Rice_price_forecast/blob/master/time_series_plot.png)
 
+
+Models considered:
+Our approach is supervised learning with feature engineering. We classified the prices in discrete labels denoting percentage change. Since it is a classification problem, we evaluated linear and non-linear machine learning algorithms. The models we considered are Naive Bayes classifier, Decision Tree classifier, Support Vector classifier, Logistic Regression and K Nearest Neighbors. We also evaluated ensemble models such as Bagging classifier, Gradient Boosting Classifier and Random forest classifier. The Gradient Boosting Classifier gave the highest accuracy of 78.24% and the highest f1 scores.
+
+
